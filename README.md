@@ -6,10 +6,26 @@ we allow to copy it
 but use it fur education and do not heart some one.
 # How to install (* linux)
 1-git clone https://github.com/kaliwalid/Hackers-Hunter.git
+
+
+
+
 2-cd Hackers-Hunter
+
+
+
 3-sudo apt install python2
+
+
+
 4-chmod +x Hunter.py
+
+
+
 5-python2 Hunter.py -h/--help
+
+
+
 
 
 **Sample Scan ( python Hunter.py --user / -u  username )**
