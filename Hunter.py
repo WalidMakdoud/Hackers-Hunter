@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#Its a script run with python2
 import requests
 import sys
 class colors:
