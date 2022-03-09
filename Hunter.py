@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#script by : https://github.com/black-hat-rgb
+#IG : https://instagram.com/is.not_walid
 #Its a script run with python2
 import requests
 import sys
