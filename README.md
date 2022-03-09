@@ -5,7 +5,7 @@ we allow to copy it
 
 but use it fur education and do not heart some one.
 # How to install (* linux)
-1-git clone https://github.com/kaliwalid/Hackers-Hunter.git
+1-git clone https://github.com/black-hat-rgb/Hackers-Hunter.git
 
 
 
@@ -29,7 +29,7 @@ but use it fur education and do not heart some one.
 
 
 **Sample Scan ( python Hunter.py --user / -u  username )**
-![simple](https://github.com/kaliwalid/Hackers-Hunter/blob/main/Hacker-Hunter.png) 
+![simple](https://github.com/black-hat-rgb/Hackers-Hunter/blob/main/Hacker-Hunter.png) 
 
 **Help (python Hunter.py --help / -h )**
 
