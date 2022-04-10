@@ -29,7 +29,7 @@ but use it fur education and do not heart some one.
 
 
 **Sample Scan ( python Hunter.py --user / -u  username )**
-![simple](https://github.com/black-hat-rgb/Hackers-Hunter/blob/main/Hacker-Hunter.png) 
+
 
 **Help (python Hunter.py --help / -h )**
 
