@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #script by : https://github.com/black-hat-rgb
-#IG : https://instagram.com/is.not_walid
+#IG : https://instagram.com/h04x_h04x
 #Its a script run with python2
 import requests
 import sys
@@ -13,7 +13,7 @@ class colors:
     CYAN='\033[1;96m'
 
 print colors.ORANGE+"                   Hackers Hunter V 1.0 "+colors.END	
-print colors.ORANGE+"[*] Written by: Walid - Instagram: instagram.com/is.not_walid [*]\n"+colors.END		
+print colors.ORANGE+"[*] Written by: BLACK HAT RGB - Instagram: instagram.com/h04x_h04x [*]\n"+colors.END		
 
 
 def main (user):  
