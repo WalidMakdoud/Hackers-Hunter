@@ -5,7 +5,7 @@ we allow to copy it
 
 but use it fur education and do not heart some one.
 # How to install (* linux)
-1-git clone https://github.com/black-hat-rgb/Hackers-Hunter.git
+1-git clone https://github.com/WalidMakdoud/Hackers-Hunter.git
 
 
 
