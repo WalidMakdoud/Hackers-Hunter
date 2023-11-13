@@ -1,9 +1,9 @@
 # Hackers-Hunter
-Hackers Hunter : Its like His name he Goes in to the some website of hacking and social medai and lock up for the username you enterd ther
-its a power full tool for get information about some one and his account
-we allow to copy it 
+Hackers Hunter : Its a tools search about the wanted hacker around the web.
 
-but use it fur education and do not heart some one.
+but use it for eyour owne risks.
+
+
 # How to install (* linux)
 1-git clone https://github.com/WalidMakdoud/Hackers-Hunter.git
 
